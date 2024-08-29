@@ -1,1 +1,12 @@
-
+git init (git bash on kore)
+git  status
+code . (vs code e terminal on hobe)
+git add test.txt
+git commit -m "initial commit"
+git log
+git log --online
+git add .
+git remote add origin https://github.com/mahfuzaakter/bootstrap_firstweb.github.io.git
+git branch -M main
+git push -u origin main
+git push
